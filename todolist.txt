@@ -1,0 +1,22 @@
+// To do list
+
+/* Add click event handler
+
+Get Input Values
+
+Add the new item to data structure
+
+Add the new item to the UI
+
+Calculate the budget
+
+Update the UI */
+
+// Create Modules
+
+//UI module, Data module, Controller Module
+
+
+Why we use modules in our projects?
+
+To keep pieces of code that are related to eachother together.  Variables and functions will only be accessible inside the module.  Makes overwriting the data not possible.
